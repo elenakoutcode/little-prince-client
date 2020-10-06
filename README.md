@@ -5,8 +5,17 @@ To site tou mate
 
 Create some design ideas
 
-First I will chang ethis to planning
+## Columns ideas for modules
 
-Maybe I will start planning my first back end in here.
+- Backlog
+- Next
+- Working on
+- Done
 
-New development banch is neede here as well
+I think that these are good columns or I should keep the default
+
+## Labels
+
+- PLH
+- EAP
+- Assingment
