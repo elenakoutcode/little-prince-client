@@ -1,5 +1,5 @@
-# sample
-To site tou mate
+# Little prince client
+Site for KDAP LittlePrince
 
 ## Design ideas
 
@@ -16,6 +16,4 @@ I think that these are good columns or I should keep the default
 
 ## Labels
 
-- PLH
-- EAP
-- Assingment
+
