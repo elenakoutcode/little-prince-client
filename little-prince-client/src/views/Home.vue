@@ -1,7 +1,7 @@
 <template>
   <div class="home">
-    <img alt="Vue logo" src="../assets/logo.png" />
     <h1>little prince project</h1>
+    <p>update and implement the design</p>
   </div>
 </template>
 
