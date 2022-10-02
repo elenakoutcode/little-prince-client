@@ -1,4 +1,5 @@
 # Little prince client
+
 Site for KDAP LittlePrince
 
 ## Design ideas
@@ -15,5 +16,3 @@ Create some design ideas
 I think that these are good columns or I should keep the default
 
 ## Labels
-
-
