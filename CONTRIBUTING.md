@@ -8,7 +8,7 @@ Will accept contributions from any one
 
 ## Design
 
-https://www.figma.com/file/5Pho3gVYRlXkyIzC3bfJU4/SP-Project?node-id=0%3A1
+[design](https://www.figma.com/file/5Pho3gVYRlXkyIzC3bfJU4/SP-Project?node-id=0%3A1)
 
 ## Teck stack
 
